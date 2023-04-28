@@ -15,6 +15,9 @@ Given that we can have multiple copies of the same book, create a logic that wil
 the user is able to check it out.
 
 ### Specs
+- Create a typescript with express.js boilerplate
+- Create a DB of your preference
+- Connect the express.js server with the DB you've chosen
 - Create a `user` resource
 - Create a `book` resource
 - Add Create, Read, Update and Delete endpoints for both resources
