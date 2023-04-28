@@ -14,7 +14,7 @@ We want to check out books, check the status of a book and check which books a s
 Given that we can have multiple copies of the same book, create a logic that will check for a given book's availability before
 the user is able to check it out.
 
-Specs:
+### Specs
 - Create a `user` resource
 - Create a `book` resource
 - Add Create, Read, Update and Delete endpoints for both resources
