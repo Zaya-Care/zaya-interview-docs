@@ -1,17 +1,14 @@
-# Backend pair programming exercise
+# QA Interview Process
 
 ## Summary
 This document describes the tech part of the QA interview process that we need to follow.
 
 ## Phase 1 - Take Home Assessment
-Build a simple REST API with a user and book resource. We want to add, find, update, and delete users and books via the API.
-
-### Description
 In this phase we want to assess the candidate's skills on Cypress, code quality, code readibility, and code architure in general.
 
 ### Requirements
 - Code needs to be written using Cypress.
-- After completing the exercise the candidate must create a public repository with the name {CANDIDATE_NAME}-qa-exercise and send the link to the repository to us.
+- After completing the exercise the candidate must create a public repository named {CANDIDATE_NAME}-qa-exercise and send us the link to the repository.
 - The repository must include a README.md file containing at least a section with instructions on how to run the code and another section on items that could've be improved if more time was given.
 
 ### Specs
@@ -39,8 +36,6 @@ In this phase we want to assess the candidate's skills on Cypress, code quality,
 - Create a README.md file with the instructions from the Requirements section above
 
 ## Phase 2 - Code walkthrough
-
-### Description
 In this phase we want the candidate to walk us through the code created in Phase 1 and explain the solution in details.
 
 ### Requirements
